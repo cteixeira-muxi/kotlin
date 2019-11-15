@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d8d35cf-147e-46ca-a44e-61c8f12642ed" name="Default Changelist" comment="" />
+    <list default="true" id="2d8d35cf-147e-46ca-a44e-61c8f12642ed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AnotherModule/AnotherModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/communications/imports.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/javacode/SomeOtherClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/learnprogramming/inheritance/Printer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/learnprogramming/inheritance/Inheritance.kt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,11 +21,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin Object" />
+        <option value="Kotlin File" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1T9cd2ukOsxeVugN6WyEM0kBzb7" />
   <component name="PropertiesComponent">
@@ -25,10 +39,16 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.sorted" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Kotlin" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\kotlin\src\academy\learnprogramming\communications" />
       <recent name="C:\Users\cteixeira\IdeaProjects\Kotlin\src\academy\learnprogramming\challenges\" />
     </key>
   </component>
@@ -44,7 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.academy.learnprogramming.accessmodifiers.AccessModifiersKt">
+  <component name="RunManager" selected="Kotlin.academy.learnprogramming.challenges.Challenge3Kt">
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
@@ -71,66 +91,66 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="academy.learnprogramming.accessmodifiers.AccessModifiersKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="academy.learnprogramming.anotherpackage.AnotherFileKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="academy.learnprogramming.accessmodifiers.AccessModifiersKt" />
+      <option name="MAIN_CLASS_NAME" value="academy.learnprogramming.anotherpackage.AnotherFileKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="academy.learnprogramming.challenges.Challenge2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Kotlin" />
+    <configuration name="academy.learnprogramming.anotherpackage.AnotherModuleFileKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="AnotherModule" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="academy.learnprogramming.challenges.Challenge2Kt" />
+      <option name="MAIN_CLASS_NAME" value="academy.learnprogramming.anotherpackage.AnotherModuleFileKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="academy.learnprogramming.functions.FunctionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="academy.learnprogramming.challenges.Challenge3Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="academy.learnprogramming.functions.FunctionsKt" />
+      <option name="MAIN_CLASS_NAME" value="academy.learnprogramming.challenges.Challenge3Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="academy.learnprogramming.inheritance.PrinterKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="academy.learnprogramming.communications.CompanyCommunicationsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="academy.learnprogramming.inheritance.PrinterKt" />
+      <option name="MAIN_CLASS_NAME" value="academy.learnprogramming.communications.CompanyCommunicationsKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="academy.learnprogramming.nullreferences.NullReferencesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="academy.learnprogramming.imports.ImportsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="academy.learnprogramming.nullreferences.NullReferencesKt" />
+      <option name="MAIN_CLASS_NAME" value="academy.learnprogramming.imports.ImportsKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -159,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.academy.learnprogramming.accessmodifiers.AccessModifiersKt" />
-        <item itemvalue="Kotlin.academy.learnprogramming.functions.FunctionsKt" />
-        <item itemvalue="Kotlin.academy.learnprogramming.inheritance.PrinterKt" />
-        <item itemvalue="Kotlin.academy.learnprogramming.challenges.Challenge2Kt" />
-        <item itemvalue="Kotlin.academy.learnprogramming.nullreferences.NullReferencesKt" />
+        <item itemvalue="Kotlin.academy.learnprogramming.challenges.Challenge3Kt" />
+        <item itemvalue="Kotlin.academy.learnprogramming.anotherpackage.AnotherModuleFileKt" />
+        <item itemvalue="Kotlin.academy.learnprogramming.anotherpackage.AnotherFileKt" />
+        <item itemvalue="Kotlin.academy.learnprogramming.imports.ImportsKt" />
+        <item itemvalue="Kotlin.academy.learnprogramming.communications.CompanyCommunicationsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -180,11 +200,17 @@
     </task>
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <watches-manager>
-      <configuration name="JetRunConfigurationType">
-        <watch expression="countryCode" />
-      </configuration>
-    </watches-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
