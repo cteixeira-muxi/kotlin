@@ -15,8 +15,8 @@
       <list>
         <option value="Kotlin Class" />
         <option value="Kotlin Object" />
-        <option value="Kotlin File" />
         <option value="Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -36,7 +36,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.WMLScript" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -57,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.academy.learnprogramming.whenexpression.WhenExpressionKt">
+  <component name="RunManager" selected="Kotlin.academy.learnprogramming.challenges.Challenge4Kt">
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
@@ -98,14 +98,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="academy.learnprogramming.challenges.Challenge3Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="academy.learnprogramming.challenges.Challenge4Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="academy.learnprogramming.challenges.Challenge3Kt" />
+      <option name="MAIN_CLASS_NAME" value="academy.learnprogramming.challenges.Challenge4Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -124,14 +124,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="academy.learnprogramming.loops.LoopsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="academy.learnprogramming.trycatch.TryCatchKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="academy.learnprogramming.loops.LoopsKt" />
+      <option name="MAIN_CLASS_NAME" value="academy.learnprogramming.trycatch.TryCatchKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -173,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.academy.learnprogramming.challenges.Challenge4Kt" />
+        <item itemvalue="Kotlin.academy.learnprogramming.trycatch.TryCatchKt" />
         <item itemvalue="Kotlin.academy.learnprogramming.whenexpression.WhenExpressionKt" />
         <item itemvalue="Application.SwitchExample" />
         <item itemvalue="Kotlin.academy.learnprogramming.ifexpression.IfExpressionKt" />
-        <item itemvalue="Kotlin.academy.learnprogramming.loops.LoopsKt" />
-        <item itemvalue="Kotlin.academy.learnprogramming.challenges.Challenge3Kt" />
       </list>
     </recent_temporary>
   </component>
