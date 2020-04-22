@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AnotherModule/AnotherModule.iml" filepath="$PROJECT_DIR$/AnotherModule/AnotherModule.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Kotlin.iml" filepath="$PROJECT_DIR$/Kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlin.iml" filepath="$PROJECT_DIR$/kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../kotlin_udacity/kotlin_udacity.iml" filepath="$PROJECT_DIR$/../kotlin_udacity/kotlin_udacity.iml" />
     </modules>
   </component>
 </project>
